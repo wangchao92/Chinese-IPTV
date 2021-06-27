@@ -39,6 +39,9 @@ http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="cctvchild" group-title="CCTV-HD",CCTV-14 HD
 http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 
+#EXTINF:-1 tvg-id="cctv4k" group-title="CCTV-HD",CCTV-4K HD
+http://itv.ahau.edu.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+
 #EXTINF:-1 group-title="CCTV-HD",CGTN高清 HD
 http://itv.ahau.edu.cn/hls/hls67a43.m3u8 
 
@@ -194,7 +197,7 @@ http://itv.ahau.edu.cn/hls/sjdltv.m3u8
 http://itv.ahau.edu.cn/hls/fyjctv.m3u8 
 
 #EXTINF:-1 tvg-id="fyyy" group-title="CCTV",CCTV-风云音乐
-http://itv.ahau.edu.cn/hls/fyyytv.m3u8
+http://itv.ahau.edu.cn/hls/hls184a519.m3u8
 
 #EXTINF:-1 tvg-id="cctvfyzq" group-title="CCTV",CCTV-风云足球
 http://itv.ahau.edu.cn/hls/fyzqtv.m3u8 

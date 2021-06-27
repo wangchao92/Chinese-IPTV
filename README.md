@@ -15,15 +15,27 @@ because time in guide.xml is UTC-0. Otherwise, you can change EPG time shift num
 according to your time zone.
 
 Channel list:
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-IPV6-BJTU.m3u
+https://github.com/lylehust/Chinese-IPTV/blob/master/TV-EDU-AHAU.m3u  
+Or, https://git.io/JYduP
+
+Or,
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u  
+Or, https://git.io/JYdg6
+
+Or,
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU-FULL.m3u  
+Or, https://git.io/JGoJk
 
 Guide file (EPG):
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml  
+Or, https://git.io/JYdzx
 
-guide.xml will be refreshed at 3:00am every day.
+guide.xml will be refreshed at 3:00am (EST) every day.
 
+----------
 
-# Thank bjtu.edu a lot. 
-http://ipv6.bjtu.edu.cn/
+10/21/2020: added LZU.
 
-BJTU doesn't work any more, and added AHAU.
+06/02/2021: added full list of LZU (thanks Chiser, https://www.chiser.cc/2146.html).
+
+Thank ahau.edu.cn and lzu.edu.cn a lot. 
